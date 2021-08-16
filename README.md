@@ -1,2 +1,2 @@
-# SpringBoot-DynanmicQuery
+# SpringBoot-DynamicQuery
 
